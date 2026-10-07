@@ -23,4 +23,3 @@ class Storage {
   static constexpr const char* kProgressPath = "/academic_vocab/progress.csv";
   static constexpr const char* kTempPath = "/academic_vocab/progress.tmp";
 };
-
